@@ -1,0 +1,27 @@
+{
+    "name":"Sample Versioned API",
+    "version":"1.0.0",
+    "author":"Brad Wood",
+    "homepage":"https://github.com/bdw429s/coldbox-versioned-api/",
+    "documentation":"https://github.com/bdw429s/coldbox-versioned-api/",
+    "slug":"ColdBox-Versioned-API",
+    "shortDescription":"I demonstrate how to use modules to create different versions of the same API.",
+    "type":"project",
+    "createPackageDirectory":false,
+    "dependencies":{
+        "cbrestbasehandler":"1.0.0",
+        "coldbox-api-module-v1":"github:bdw429s/coldbox-api-module#v1"
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        "cbrestbasehandler":"modules\\cbrestbasehandler",
+        "coldbox-api-module-v1":"modules\\coldbox-api-module-v1"
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ]
+}
