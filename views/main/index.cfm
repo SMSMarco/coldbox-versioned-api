@@ -39,7 +39,12 @@
 				<li><a href="/api/v1/RPI/list">/api/v1/RPI/list</a></li>
 				<li><a href="/api/v1/RPI/detail/ID/5">/api/v1/RPI/detail/ID/5</a></li>
 			</ul>
-			<li>v2</li>
+			<li><strong>v2</strong> - Introduces BaseHandler and standard reponse JSON. </li>
+			<ul>
+				<li><a href="/api/v2/RPI/index">/api/v2/RPI/index</a></li>
+				<li><a href="/api/v2/RPI/list">/api/v2/RPI/list</a></li>
+				<li><a href="/api/v2/RPI/detail/ID/5">/api/v2/RPI/detail/ID/5</a></li>
+			</ul>
 			<li>v3</li>
 		</ul>
 		</section>
@@ -52,13 +57,13 @@
 			<ul class="nav nav-list">
 				<li><strong>Important Links</strong></li>
 				<li>
-	                <a href="">App code</a>
+	                <a href="https://github.com/bdw429s/coldbox-versioned-api">App code</a>
 	            </li>
 				<li>
-	                <a href="">Module code</a>
+	                <a href="https://github.com/bdw429s/coldbox-api-module">Module code</a>
 	            </li>
 				<li>
-	                <a href="">REST Docs</a>
+	                <a href="http://coldbox.ortusbooks.com/content/recipes/building_rest_apis.html">REST Docs</a>
 	            </li>
 			</ul>
 		</div>
