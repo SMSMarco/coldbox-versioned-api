@@ -51,6 +51,12 @@
 				<li><a href="/api/v3/RPIs">/api/v3/RPIs</a></li>
 				<li><a href="/api/v3/RPIs/5">/api/v3/RPIs/5</a></li>
 			</ul>
+			<li><strong>vNext</strong> - Bleeding edge development from the master branch.</li>
+			<ul>
+				<li><a href="/api/vNext">/api/vNext</a></li>
+				<li><a href="/api/vNext/RPIs">/api/vNext/RPIs</a></li>
+				<li><a href="/api/vNext/RPIs/5">/api/vNext/RPIs/5</a></li>
+			</ul>
 		</ul>
 		</section>
 

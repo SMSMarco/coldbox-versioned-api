@@ -12,7 +12,8 @@
         "cbrestbasehandler":"1.0.0",
         "coldbox-api-module-v1":"github:bdw429s/coldbox-api-module#v1",
         "coldbox-api-module-v2":"github:bdw429s/coldbox-api-module#v2",
-        "coldbox-api-module-v3":"github:bdw429s/coldbox-api-module#v3"
+        "coldbox-api-module-v3":"github:bdw429s/coldbox-api-module#v3",
+        "coldbox-api-module-vNext":"github:bdw429s/coldbox-api-module#master"
     },
     "devDependencies":{
         
@@ -21,7 +22,8 @@
         "cbrestbasehandler":"modules\\cbrestbasehandler",
         "coldbox-api-module-v1":"modules\\coldbox-api-module-v1",
         "coldbox-api-module-v2":"modules\\coldbox-api-module-v2",
-        "coldbox-api-module-v3":"modules\\coldbox-api-module-v3"
+        "coldbox-api-module-v3":"modules\\coldbox-api-module-v3",
+        "coldbox-api-module-vNext":"modules\\coldbox-api-module-vNext"
     },
     "ignore":[
         "**/.*",
