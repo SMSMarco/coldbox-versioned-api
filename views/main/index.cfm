@@ -33,19 +33,24 @@
 		<p>Below are  multiple versions of the same API, each implemented as modules.  Each module is installed from a tag in the same Git repo.</p>
 		<p>This API lists details abour Raspberry Pi devices.  You can list all or get details on one specific device.  All versions of the API use the same RPIService.cfc model from the base app.</p>
 		<ul>
-			<li><strong>v1</strong> - First gen API. Rough around the edges but works. </li>
+			<li><strong>v1</strong> - First gen API. Rough around the edges but works.</li>
 			<ul>
 				<li><a href="/api/v1/RPI/index">/api/v1/RPI/index</a></li>
 				<li><a href="/api/v1/RPI/list">/api/v1/RPI/list</a></li>
 				<li><a href="/api/v1/RPI/detail/ID/5">/api/v1/RPI/detail/ID/5</a></li>
 			</ul>
-			<li><strong>v2</strong> - Introduces BaseHandler and standard reponse JSON. </li>
+			<li><strong>v2</strong> - Introduces BaseHandler and standard reponse JSON.</li>
 			<ul>
 				<li><a href="/api/v2/RPI/index">/api/v2/RPI/index</a></li>
 				<li><a href="/api/v2/RPI/list">/api/v2/RPI/list</a></li>
 				<li><a href="/api/v2/RPI/detail/ID/5">/api/v2/RPI/detail/ID/5</a></li>
 			</ul>
-			<li>v3</li>
+			<li><strong>v3</strong> - Added pretty routing to clean up URL.</li>
+			<ul>
+				<li><a href="/api/v3">/api/v3</a></li>
+				<li><a href="/api/v3/RPIs">/api/v3/RPIs</a></li>
+				<li><a href="/api/v3/RPIs/5">/api/v3/RPIs/5</a></li>
+			</ul>
 		</ul>
 		</section>
 
