@@ -14,7 +14,7 @@
         "coldbox-api-module-v2":"github:bdw429s/coldbox-api-module#v2",
         "coldbox-api-module-v3":"github:bdw429s/coldbox-api-module#v3",
         "coldbox-api-module-vNext":"github:bdw429s/coldbox-api-module#master",
-        "coldbox":"4.1.0+00002"
+        "coldbox":"4.x"
     },
     "devDependencies":{
         
